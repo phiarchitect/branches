@@ -18,3 +18,14 @@ changelog
 ## 0.0.4
 
 - Placeholder for changes
+
+0.0.5
+-----
+
+:init: 2024.346 
+:merge:
+:pub:
+
+  test 5
+
+- actions
